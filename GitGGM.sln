@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGGM", "GitGGM\GitGGM.csproj", "{0EE9A0E5-1162-4462-911B-104EABE08C54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIT-GGM", "GIT-GGM\GIT-GGM.csproj", "{BD124DC2-EC0C-4E2B-AB2E-BE032F0EBB67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0EE9A0E5-1162-4462-911B-104EABE08C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0EE9A0E5-1162-4462-911B-104EABE08C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0EE9A0E5-1162-4462-911B-104EABE08C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0EE9A0E5-1162-4462-911B-104EABE08C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD124DC2-EC0C-4E2B-AB2E-BE032F0EBB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD124DC2-EC0C-4E2B-AB2E-BE032F0EBB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD124DC2-EC0C-4E2B-AB2E-BE032F0EBB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD124DC2-EC0C-4E2B-AB2E-BE032F0EBB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B0391C7-9C97-4112-BABC-F2356AAB3EE3}
 	EndGlobalSection
 EndGlobal
